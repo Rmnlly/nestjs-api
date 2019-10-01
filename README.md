@@ -7,3 +7,4 @@ A dive into the nestjs framework for working with node.js. This is just a basic 
 - Expose a small api
 - Use Typescript
 - Build into a graphql API/Incorporate into graphql
+- Deploy to a cloud solution
